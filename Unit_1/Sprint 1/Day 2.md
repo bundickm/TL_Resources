@@ -47,3 +47,13 @@ Ask the students the following:
 2. What is NaN? What are some ways to handle null values? Why is it important to remove null values?
 3. What is a function? How do we write one? Why are they useful?
 4. How do we change a column to datetime format?
+
+
+---
+
+
+## End of Day
+Post the following:
+```
+If you haven't done so already, please look over the training kit for tomorrow: https://learn.lambdaschool.com/ds/module/recLMyOUPqsW4wm90/
+```

@@ -31,6 +31,10 @@ Post and pin the following:
 This week's repo, Unit 1 Sprint 1: https://github.com/LambdaSchool/DS-Unit-1-Sprint-1-Data-Wrangling-and-Storytelling
 ```
 
+
+---
+
+
 ## Warm-up
 Warm-up on the first day will be introductions, first will be a short meeting welcoming the students, and introducing the team leads and instructor. After that will be an introduction with your team lead group. Introduce yourself and then ask the students to answer these questions:
 1. Why are you at Lambda School?
@@ -44,6 +48,10 @@ After the introductions, as time permits cover the following:
 - Channels to join, ideally list these in your team channel: cohort specific ones, DS track channels (ds_help, ds_general, etc.), city specific channels for meetups and local info, and any others you may find useful.
 
 Should you not have time to cover the additional topics during warm-up, you can either drop the information in your channel in the afternoon or you can bring it up during standup.
+
+
+---
+
 
 ## Stand-up
 Since it is the first stand-up you will need to introduce the format for stand-ups and set expectations.
@@ -70,3 +78,13 @@ df.drop()
 pd.crosstab()
 ```
 4. Offer encouragement, the first few weeks feel overwhelming but they can get through it and thrive. You are here to support them at every step. If they need help beyond 1-on-1's and stand-up they simply need to ask any TL or SL. Later in the week you will discuss the Sprint Challenge - what to expect and how to prepare. For now, the best thing to prepare is to do the assignments. Finally, they can breathe a sigh of relief, Day 1 is done!
+
+
+---
+
+
+## End of Day
+Post the following:
+```
+If you haven't done so already, please look over the training kit for tomorrow: https://learn.lambdaschool.com/ds/module/recD0PnM64cmU06N1
+```
