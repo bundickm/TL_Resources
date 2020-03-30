@@ -73,7 +73,7 @@ Ancillary Details
 -Notebook is uploaded to github
 -Notebook and blog post are linked to from your portfolio site
 -Github repo is free of rough drafts (I shouldn't see "My_Project_v1", "My_Project_v2", etc.)
--Notebook and github repo names do not include "Lambda", this is a portfolio piece not a homework assignment. Markdown/comments in the notebook should also be free of indications this is a class assignment.
+-Notebook and github repo names do not include "Lambda" or "Project", this is a portfolio piece not a homework assignment. Markdown/comments in the notebook should also be free of indications this is a class assignment.
 
 You are expected to complete the "Must Haves" and the Ancillary Details for your notebook to get a 2 but strive to at least hit some of the "Really Should Haves"
 ```
