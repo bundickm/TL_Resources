@@ -39,7 +39,7 @@ End on a positive note and/or word of encouragement.
 
 ## Stand-up Discussion
 - Encourage students to start preparing for the sprint challenge by creating a notebook with all of the various functions they have seen so far and examples for each. See the following cheat sheets: [Pandas](https://github.com/bundickm/CheatSheets/blob/master/Data_Cleaning_and_Exploring_Cheat_Sheet.ipynb), [Matplotlib](https://github.com/bundickm/CheatSheets/blob/master/MatplotLib_Cheat_Sheet.ipynb)
-- Discuss stretch goals in assignments and sprint challenges are there to push you. If time allows they should be attempted to drive the students' personal growth.
+- Discuss that stretch goals in assignments and sprint challenges are there to push you. If time allows they should be attempted to drive the students' personal growth.
 - The sprint challenge will be discussed Wednesday and Thursday during stand-up so bring questions tomorrow.
 
 Ask the students the following:
