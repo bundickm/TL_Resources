@@ -7,7 +7,7 @@
 - [Data Wrangling](https://github.com/bundickm/CheatSheets/blob/master/Data_wrangling_cheatsheet.pdf)
 
 # Additional Resources
-- [Matplotlib Tutorial Notebook](https://github.com/bundickm/Study-Guides/blob/master/Unit_1_Sprint_1_Data_Wrangling_and_Visualizations_Study_Guide.ipynb)
+- [Matplotlib Tutorial Notebook](https://colab.research.google.com/drive/1Za-IVwxIU8kqn8pmgI2szFB894cONJJI)
 - [Corey Schafer - Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 - [Corey Schafer - Pandas](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 - [Corey Schafer - Matplotlib](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
