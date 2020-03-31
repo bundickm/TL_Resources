@@ -44,6 +44,7 @@ Warm-up on the first day will be introductions, first will be a short meeting we
 
 After the introductions, as time permits cover the following:
 - If you are missing replies to the github name/os/timezone thread, remind them to reply to it.
+- Add a photo to your slack profile and your cohort to your profile information.
 - Point out the pinned resources and that they have daily and weekly forms to fill out that they can find there.
 - Channels to join, ideally list these in your team channel: cohort specific ones, DS track channels (ds_help, ds_general, etc.), city specific channels for meetups and local info, and any others you may find useful.
 
@@ -87,4 +88,6 @@ pd.crosstab()
 Post the following:
 ```
 If you haven't done so already, please look over the training kit for tomorrow: https://learn.lambdaschool.com/ds/module/recD0PnM64cmU06N1
+
+Why do we ask you to read the training kit in advance when it is covered in lecture? To help reinforce your learning and the concepts being discussed for that day. Don't cheat yourself out of that learning just to avoid 10 minutes of reading.
 ```

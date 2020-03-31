@@ -23,7 +23,7 @@ Edit and then post the following in your channel after lunch:
 ```
 
 ### 1-on-1 Discussion
-See the 1-on-1 advice here if you would like a clearer idea of what to look for in a 1-on-1. It's never too early to critique for PEP8 compliant code or DRY code, just couch the feedback in preventing bad habits they would have to break later to pass Unit 3.
+See the 1-on-1 advice [here]() if you would like a clearer idea of what to look for in a 1-on-1. It's never too early to critique for PEP8 compliant code or DRY code, just couch the feedback in preventing bad habits they would have to break later to pass Unit 3.
 
 Ask the student the following questions:
 1. How do I find out if there are nulls in a dataset?
@@ -56,4 +56,6 @@ Ask the students the following:
 Post the following:
 ```
 If you haven't done so already, please look over the training kit for tomorrow: https://learn.lambdaschool.com/ds/module/recLMyOUPqsW4wm90/
+
+You should also read this chapter of The Data Science Hanbook: https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html
 ```
