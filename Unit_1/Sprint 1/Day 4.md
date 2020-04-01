@@ -25,7 +25,7 @@ Ask the students the following questions:
 
 ## Stand-up Discussion
 1. Tomorrow the students will have their first SC. Once again, encourage them to complete the study guide to prepare.
-2. Review and then share this [notebook on filtering, feature engineering, and top N](https://colab.research.google.com/drive/1KtvdA8_oZj76dulTC3Fii7c6Latpw4Xb). These are all common pain points on the first sprint challenge, this should prepare the students in addition to the study guide.
+2. Open up discussion for questions about the sprint challenge. Try to avoid telling students exactly what is on the SC as this leads to them studying to the test and ignoring important code and concepts that don't show up.
 
 
 ---

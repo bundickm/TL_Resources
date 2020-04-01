@@ -1,6 +1,9 @@
 # Study Guide
 [Unit 1 Sprint 1 - Data Wrangling and Visualizations - Study Guide](https://github.com/bundickm/Study-Guides/blob/master/Unit_1_Sprint_1_Data_Wrangling_and_Visualizations_Study_Guide.ipynb)
 
+# Sprint Challenge
+[Unit 1 Sprint 1 - Sprint Challenge](https://github.com/LambdaSchool/DS-Material/tree/master/unit1-descriptive-statistics/sprint1-dealing-with-data/sprint-challenge) - Requires access to the private Lambda School repos
+
 # Cheat Sheets
 - [Pandas](https://github.com/bundickm/CheatSheets/blob/master/Data_Cleaning_and_Exploring_Cheat_Sheet.ipynb)
 - [Matplotlib](https://github.com/bundickm/CheatSheets/blob/master/MatplotLib_Cheat_Sheet.ipynb)
