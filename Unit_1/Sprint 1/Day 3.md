@@ -40,6 +40,7 @@ What to expect in the sprint challenge:
 - At 8 AM the Section Lead or Instructor will post the SC in the main channel. It will be a `.ipynb` file that you will need to download and then upload to Colab. If you aren't sure how to do this, practice it before the SC so you don't waste time when it counts.
 - Read the instructions fully before doing each section
 - Focus on getting passable answers for each section before worrying about polish or attempting a 3, you can always come back. It does you no good if you spend time perfecting one section only to fail the sprint challenge because you ran out of time for the rest.
+- TL's can't help you with the SC but if you get stuck with something like setup, reach out.
 - Once you have finished the SC, send me a share link of your colab notebook.
 - After I have your SC I'll look it over and grade it. We will then meet for a 1-on-1 to discuss your submission.
 - On Friday's, once you have had your 1-on-1 you are usually free for the day. There will be an optional sprint review with the instructor but that is your choice on whether to attend or not.

@@ -36,7 +36,7 @@ Post the following:
 ```
 If you haven't seen it yet, check out the study guide here: https://github.com/bundickm/Study-Guides/blob/master/Unit_1_Sprint_1_Data_Wrangling_and_Visualizations_Study_Guide.ipynb
 
-And here is a tutorial notebook on matplotlib just in case you aren't feeling great on it yet: https://colab.research.google.com/drive/1Za-IVwxIU8kqn8pmgI2szFB894cONJJI
-
 I strongly encourage all of you to complete it so that you are fully prepared for the sprint challenge tomorrow.
+
+And here is a tutorial notebook on matplotlib just in case you aren't feeling great on it yet: https://colab.research.google.com/drive/1Za-IVwxIU8kqn8pmgI2szFB894cONJJI
 ```
