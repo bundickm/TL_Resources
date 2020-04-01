@@ -1,4 +1,4 @@
-# Day X
+# Day 3
 
 ## Warm-up
 Post the following in your channel:
@@ -15,6 +15,8 @@ Ask the students the following questions:
 1. 
 2. 
 3. 
+
+Review student datasets to ensure they are useable. Focus on size (not too small or too big), possible research questions, and student ability to clean and manipulate the data.
 
 
 ---

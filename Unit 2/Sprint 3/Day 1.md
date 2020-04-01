@@ -1,9 +1,9 @@
-# Day X
+# Day 1
 
 ## Warm-up
-Post the following in your channel:
+Edit and post the following in your channel:
 ```
-Please participate in the warmup posted in the main channel. Should you get done early and haven't already done so, read the training kit found here: <TRAINING KIT LINK>
+Monday means warmup is a careers lesson. You can find the zoom link in the main channel or in this channel: <CAREERS CHANNEL - something like #ls1912_full_time>
 ```
 
 

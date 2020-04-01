@@ -11,9 +11,24 @@ Post the following in your channel at 10:30 AM:
 Thirty minutes left, still plenty of time, just focus on making sure you have an answer for each section.
 ```
 
-Edit and post the following in your channel at 11:00 AM:
+Post the following in your channel at 11:00 AM:
 ```
 The <SUBJECT> sprint challenge is officially over! If you haven't done so already, please DM me a link to your sprint challenge. 1-on-1's will begin after lunch, see you then.
+```
+
+
+---
+
+
+## After Lunch
+Post the following:
+```
+If you haven't already picked out a dataset for your build week project, please take some time over the weekend to start looking for one. You can use sites like Kaggle, Dataworld, and UCI to find a large number of datasets, just avoid the overdone ones like the UCI top ten or Kaggle's Titanic dataset. You can also try your hand at webscraping but if that is your plan you should start that immediately, you don't want to go into build week still trying to collect your data. 
+
+Please be prepared to discuss 1 or 2 datasets you want to use for your build week project during our 1-on-1's on Wednesday.
+
+Repo - https://github.com/LambdaSchool/DS-Unit-1-Build
+DS10 Presentations - https://www.youtube.com/watch?v=xZmvcGN9yqY&feature=youtu.be
 ```
 
 

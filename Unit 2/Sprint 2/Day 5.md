@@ -11,7 +11,7 @@ Post the following in your channel at 10:30 AM:
 Thirty minutes left, still plenty of time, just focus on making sure you have an answer for each section.
 ```
 
-Edit and post the following in your channel at 11:00 AM:
+Post the following in your channel at 11:00 AM:
 ```
 The <SUBJECT> sprint challenge is officially over! If you haven't done so already, please DM me a link to your sprint challenge. 1-on-1's will begin after lunch, see you then.
 ```

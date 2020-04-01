@@ -1,4 +1,4 @@
-# Day X
+# Day 2
 
 ## Warm-up
 Post the following in your channel:
@@ -21,7 +21,7 @@ Ask the students the following questions:
 
 
 ## Stand-up Discussion
-1. 
+1. Tomorrow we will be reviewing your datasets for your build week project during the 1-on-1's. Please make sure you have a dataset picked out by tomorrow.
 2. 
 
 
