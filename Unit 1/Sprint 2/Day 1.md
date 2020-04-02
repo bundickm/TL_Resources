@@ -10,19 +10,16 @@ Monday means warmup is a careers lesson. You can find the zoom link in the main 
 ---
 
 
-## 1-on-1 Discussion
-Ask the students the following questions:
-1. 
-2. 
-3. 
-
-
----
-
-
 ## Stand-up Discussion
-1. 
-2. 
+Encourage your students to take studying seriously this week. Statistics is a difficult week but they can get through it. There are plenty of additional resources for each of the topics this week.
+
+Ask your students the following questions:
+1. What is the normal distribution?
+2. What is a null hypothesis?
+3. What is the difference between a 1-sample and a 2-sample (`ttest_ind`) t-test?
+4. What is a p-value? How does it relate to statistical signifigance?
+
+[Khan Academy Videos on T-Tests](https://www.khanacademy.org/math/ap-statistics/two-sample-inference/two-sample-t-test-means/v/alternative-hypothesis-for-2-sample-t-test)
 
 
 ---
@@ -31,5 +28,5 @@ Ask the students the following questions:
 ## End of Day
 Post the following:
 ```
-If you haven't done so already, please look over the training kit for tomorrow: <TRAINING KIT LINK>
+If you haven't done so already, please look over the training kit for tomorrow: https://learn.lambdaschool.com/ds/module/recSyGHdvxNJxWob7
 ```

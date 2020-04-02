@@ -13,7 +13,7 @@ Thirty minutes left, still plenty of time, just focus on making sure you have an
 
 Post the following in your channel at 11:00 AM:
 ```
-The <SUBJECT> sprint challenge is officially over! If you haven't done so already, please DM me a link to your sprint challenge. 1-on-1's will begin after lunch, see you then.
+The Statistics sprint challenge is officially over! If you haven't done so already, please DM me a link to your sprint challenge. 1-on-1's will begin after lunch, see you then.
 ```
 
 
@@ -36,30 +36,19 @@ DS10 Presentations - https://www.youtube.com/watch?v=xZmvcGN9yqY&feature=youtu.b
 
 
 ## 1-on-1 Discussion
-Ask the students the following questions:
-1. 
-2. 
-3. 
-
-
----
-
-
-## Stand-up Discussion
-1. 
-2. 
+At the end of the sprint challenge are questions asking the student interpret their t-tests and chi-squared tests. Ask them to delve deeper into those tests - what is the null hypothesis? what does the p-value tell us? explain the results as though you are talking to a non-technical person.
 
 
 ---
 
 
 ## End of Day
-Remove the old pinned repo for Unit 1, Sprint 1. Post and pin the following:
+Remove the old pinned repo for Unit 1, Sprint 2. Post and pin the following:
 ```
-This week's repo, Unit <X> Sprint <Y>: <LINK TO SPRINT REPO>
+This week's repo, Unit 1 Sprint 3: https://github.com/LambdaSchool/DS-Unit-1-Sprint-3-Linear-Algebra
 ```
 
 Post the following:
 ```
-To prepare for the lesson on Monday, take time to read the training kit and watch the videos: <LINK TO TRAINING KIT>
+To prepare for the lesson on Monday, take time to read the training kit and watch the videos: https://learn.lambdaschool.com/ds/module/rec6oDxWOTL1e9Ii3
 ```
