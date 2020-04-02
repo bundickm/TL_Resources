@@ -1,16 +1,15 @@
 # Study Guide
-[Unit 1 Sprint 1 - Data Wrangling and Visualizations - Study Guide](https://github.com/bundickm/Study-Guides/blob/master/Unit_1_Sprint_1_Data_Wrangling_and_Visualizations_Study_Guide.ipynb)
+[Unit 1 Sprint 3 - Linear Algebra - Study Guide](https://learn.lambdaschool.com/ds/module/recnLDoPD0eLGPq1z/)
 
 # Sprint Challenge
-[Unit 1 Sprint 1 - Sprint Challenge](https://github.com/LambdaSchool/DS-Material/tree/master/unit1-descriptive-statistics/sprint1-dealing-with-data/sprint-challenge) - Requires access to the private Lambda School repos
+[Unit 1 Sprint 3 - Sprint Challenge]() - Requires access to the private Lambda School repos
 
 # Cheat Sheets
-- [Pandas](https://github.com/bundickm/CheatSheets/blob/master/Data_Cleaning_and_Exploring_Cheat_Sheet.ipynb)
-- [Matplotlib](https://github.com/bundickm/CheatSheets/blob/master/MatplotLib_Cheat_Sheet.ipynb)
-- [Data Wrangling](https://github.com/bundickm/CheatSheets/blob/master/Data_wrangling_cheatsheet.pdf)
+- [Linear Algebra, PCA, and Clustering Cheat Sheet](https://github.com/bundickm/CheatSheets/blob/master/Linear_Algebra_PCA_and_Clustering_Cheat_Sheet.ipynb)
+- [LaTex Cheat Sheet](https://wch.github.io/latexsheet/latexsheet.pdf)
 
 # Additional Resources
-- [Matplotlib Tutorial Notebook](https://colab.research.google.com/drive/1Za-IVwxIU8kqn8pmgI2szFB894cONJJI)
-- [Corey Schafer - Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
-- [Corey Schafer - Pandas](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
-- [Corey Schafer - Matplotlib](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+- [Linear Algebra Book with Interactive Figures](http://immersivemath.com/ila/index.html)
+- [3 Blue 1 Brown Video on Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- StatsQuest Videos on PCA [1](https://www.youtube.com/watch?v=FgakZw6K1QQ&feature=youtu.be)[2](https://www.youtube.com/watch?v=_UVHneBUBW0&feature=youtu.be)[3](https://www.youtube.com/watch?v=HMOI_lkzW08&feature=youtu.be)
+- [Practical Guide to PCA](https://www.analyticsvidhya.com/blog/2016/03/pca-practical-guide-principal-component-analysis-python/)

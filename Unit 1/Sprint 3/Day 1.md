@@ -10,19 +10,20 @@ Monday means warmup is a careers lesson. You can find the zoom link in the main 
 ---
 
 
-## 1-on-1 Discussion
-Ask the students the following questions:
-1. 
-2. 
-3. 
-
-
----
-
-
 ## Stand-up Discussion
-1. 
-2. 
+- Linear algebra and statistics underpins most of machine learning. While Lambda does not go to far into either, it's important to cover them so you have some intuitive sense of what is happening under the hood.
+
+Ask the students to define the following terms:
+- Vector
+- Scalar
+- Norm of a Vector
+- Dot Product
+- Matrix
+- Identity Matrix
+- Transpose of a Matrix
+- Determinant
+- Inverse of a Matrix
+
 
 
 ---
@@ -31,5 +32,5 @@ Ask the students the following questions:
 ## End of Day
 Post the following:
 ```
-If you haven't done so already, please look over the training kit for tomorrow: <TRAINING KIT LINK>
+If you haven't done so already, please look over the training kit for tomorrow: https://learn.lambdaschool.com/ds/module/recyR22S2HMD6bYAO
 ```

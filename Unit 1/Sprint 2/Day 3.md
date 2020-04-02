@@ -22,7 +22,7 @@ Choose a chi-squared test from the assignment and then ask the students the foll
 
 
 ## Stand-up Discussion
-1. Tomorrow is a light day, building a portfolio. Spend any extra time you have tomorrow studying for the sprint challenge.
+1. Tomorrow is a light day, building a portfolio site. Spend any extra time you have tomorrow studying for the sprint challenge.
 2. Review [this notebook](https://colab.research.google.com/drive/1KtvdA8_oZj76dulTC3Fii7c6Latpw4Xb) with the students. Filtering, feature engineering, and top-N are all necessary for successfully completing the sprint challenge on Friday.
 3. Ask what the difference is between frequentist and bayesian statistics
 

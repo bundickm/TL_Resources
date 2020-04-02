@@ -9,4 +9,7 @@
 
 # Additional Resources
 - [Statistical Tests Made Easy](https://www.youtube.com/watch?v=I10q6fjPxJ0)
-- 
+- [What are Degrees of Freedom?](https://blog.minitab.com/blog/statistics-and-quality-data-analysis/what-are-degrees-of-freedom-in-statistics)
+- [A Visual Introduction to Statistics and Probability](https://seeing-theory.brown.edu/)
+- [Khan Academy Playlists on Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+- [Bayesian Statistics for Beginners](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
