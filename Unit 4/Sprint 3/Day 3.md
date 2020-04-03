@@ -1,4 +1,4 @@
-# Day 4
+# Day 3
 
 ## Warm-up
 Post the following in your channel:
@@ -31,7 +31,5 @@ Ask the students the following questions:
 ## End of Day
 Post the following:
 ```
-If you haven't seen it yet, check out the study guide here: <STUDY GUIDE HERE>
-
-I strongly encourage all of you to complete it so that you are fully prepared for the sprint challenge tomorrow.
+If you haven't done so already, please look over the training kit for tomorrow: <TRAINING KIT LINK>
 ```

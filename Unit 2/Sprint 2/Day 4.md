@@ -1,4 +1,4 @@
-# Day X
+# Day 4
 
 ## Warm-up
 Post the following in your channel:
