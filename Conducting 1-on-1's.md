@@ -13,7 +13,7 @@ For an idea of what to look for when reviewing your students' code, look to the 
 ## Feedback
 Below are various things you should be looking for in addition to simple assignment completion. Students should hear this feedback regularly to reinforce its importance, that means pointing it out when it is incorrect and praising it when it is correct. Finally, don't forget to give the reason why they should listen to your feedback - "because I said so" doesn't work with children and it sure won't work when critiquing code.
 
-For examples from student code, look at [this notebook]() of compiled code reviews.
+For examples from student code, look at [this notebook](https://github.com/bundickm/TL_Resources/blob/master/Misc%20Resources/Compiled_Code_Reviews.ipynb) of compiled code reviews.
 
 ### Readability
 - Code should be consistent. In Python, like most programming languages, there is more than one way to do anything. Students should be choosing the method that allows for the maximum level of consistency unless they have an explicit reason not to. A common example of this is when referencing columns in a dataframe, switching between dot notation (`df.column`) and square bracket notation (`df['column']`). In this example, square bracket notation should be used since it can always be used where as dot notation breaks down in scenarios such as a space in the column name.
