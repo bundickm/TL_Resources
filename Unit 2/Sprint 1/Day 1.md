@@ -10,19 +10,11 @@ Monday means warmup is a careers lesson. You can find the zoom link in the main 
 ---
 
 
-## 1-on-1 Discussion
-Ask the students the following questions:
-1. 
-2. 
-3. 
-
-
----
-
-
 ## Stand-up Discussion
-1. 
-2. 
+Ask the students the following questions:
+1. What is a baseline? Why do we need it? How do we find the baseline for a regression model?
+2. What are synonyms for the Target feature? For the Independent Variables?
+3. What are the steps for training and predicting with a model?
 
 
 ---
@@ -31,5 +23,5 @@ Ask the students the following questions:
 ## End of Day
 Post the following:
 ```
-If you haven't done so already, please look over the training kit for tomorrow: <TRAINING KIT LINK>
+If you haven't done so already, please look over the training kit for tomorrow: https://learn.lambdaschool.com/ds/module/recXqQFbsskJBNPlX/
 ```

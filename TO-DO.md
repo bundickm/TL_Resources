@@ -3,7 +3,6 @@
 ## General
 - "Conducting Standups.md" needs to be revised for Data Science, currently has placeholder text from the TL Handbook.
 - "Conducting 1-on-1s.md" needs an editing pass
-- Need to add relevant brownbags to each sprint
 
 ## Unit 1
 - All sprints could use more resources

@@ -11,4 +11,5 @@
 - [<RESOURCE>](<LINK>)
 - 
 - 
-- 
+- [Deep Learning in the Real World](https://youtu.be/yLYaQPi3O-A)
+- [Computer Vision in the Browser](https://youtu.be/zdc6_sjrYG4)

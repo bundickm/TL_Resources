@@ -11,4 +11,4 @@
 - [<RESOURCE>](<LINK>)
 - 
 - 
-- 
+- [Decision Trees Brownbag](https://youtu.be/8GGYWsBUYrs) [Support Materials](https://github.com/MattJBritton/InteractiveDecisionTrees)

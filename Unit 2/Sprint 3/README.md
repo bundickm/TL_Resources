@@ -11,4 +11,4 @@
 - [<RESOURCE>](<LINK>)
 - 
 - 
-- 
+- [Plotly Dash and Interactive Data Visualizations Brownbag](https://youtu.be/tcF4XPAq7rE) [Support Materials](https://github.com/austinlasseter/intro_knn_plotly)

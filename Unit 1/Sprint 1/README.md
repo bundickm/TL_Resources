@@ -14,3 +14,4 @@
 - [Corey Schafer - Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 - [Corey Schafer - Pandas](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 - [Corey Schafer - Matplotlib](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+- [Interactive Data Visualization Brownbag](https://youtu.be/Xc4APqKOHB0) [Support Materials](https://drive.google.com/drive/folders/1Aq3f9LenVD8g9LvJJF1IEoo1-wlWqPb5)

@@ -11,4 +11,8 @@
 - [<RESOURCE>](<LINK>)
 - 
 - 
-- 
+- [Surfacing Positive Content with NLP](https://youtu.be/2zXC1JxuWOg)
+- [Word2Vec Anything](https://youtu.be/31DjPfe7Jeg)
+- [Automated Essay Scoring](https://youtu.be/SjYEfu7yNzM)
+- [Supervised Learning with NLP](https://youtu.be/qkzpyfNP_0s) [Support Materials](https://github.com/BJanota11/LambdaSchool_GuestLecture)
+- [How to Solve NLP](https://youtu.be/b8sc2omOVwk) [Support Materials](https://github.com/lapolonio/how-to-solve-NLP)

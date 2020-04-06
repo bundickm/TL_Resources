@@ -11,4 +11,4 @@
 - [<RESOURCE>](<LINK>)
 - 
 - 
-- 
+- [Testing in Python Brownbag](https://youtu.be/pS8pzmtqxVA) [Support Materials](https://github.com/prof-rossetti/lambda-lecture-pytest)

@@ -13,3 +13,4 @@
 - [A Visual Introduction to Statistics and Probability](https://seeing-theory.brown.edu/)
 - [Khan Academy Playlists on Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 - [Bayesian Statistics for Beginners](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
+- [Bayes Theorem and Naive Bayes Brownbag](https://youtu.be/IqYJKGEtdUU)

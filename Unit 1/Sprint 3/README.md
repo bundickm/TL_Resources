@@ -13,3 +13,4 @@
 - [3 Blue 1 Brown Video on Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - StatsQuest Videos on PCA [1](https://www.youtube.com/watch?v=FgakZw6K1QQ&feature=youtu.be)[2](https://www.youtube.com/watch?v=_UVHneBUBW0&feature=youtu.be)[3](https://www.youtube.com/watch?v=HMOI_lkzW08&feature=youtu.be)
 - [Practical Guide to PCA](https://www.analyticsvidhya.com/blog/2016/03/pca-practical-guide-principal-component-analysis-python/)
+- [Beyond the Basics of Similarity Search Brownbag](https://youtu.be/yAE4InKa_ac)
